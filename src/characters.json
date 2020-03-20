@@ -1,63 +1,63 @@
 [
     {
         "id": 1,
-        "name": "",
-        "image": ""
+        "name": "L",
+        "image": "/images/animeL.jpg"
     },
     {
         "id": 2,
-        "name": "",
-        "image":""
+        "name": "Chitoge",
+        "image":"/images/animeChitoge.jpg"
     },
     {
         "id": 3,
-        "name": "",
-        "image": ""
+        "name": "Ed",
+        "image": "/images/animeEd.jpg"
     },
     {
         "id": 4,
-        "name": "",
-        "image": ""
+        "name": "Inori",
+        "image": "/images/animeInori.jpg"
     },
     {
         "id": 5,
-        "name": "",
-        "image": ""
+        "name": "Itachi",
+        "image": "/images/animeItachi.jpg"
     },
     {
         "id": 6,
-        "name": "",
-        "image": ""
+        "name": "Izuku",
+        "image": "/images/animeIzuku.jpg"
     },
     {
         "id": 7,
-        "name": "",
-        "image": ""
+        "name": "Kakashi",
+        "image": "/images/animeKakashi.jpg"
     },
     {
         "id": 8,
-        "name": "",
-        "image": ""
+        "name": "Kirito",
+        "image": "/images/animeKirito.jpg"
     },
     {
         "id": 9,
-        "name": "",
-        "image": ""
+        "name": "Mirai",
+        "image": "/images/animeMirai.jpg"
     },
     {
         "id": 10,
-        "name": "",
-        "image": ""
+        "name": "Nezuko",
+        "image": "/images/animeNezuko.jpg"
     },
     {
         "id": 11,
-        "name": "",
-        "image": ""
+        "name": "Roy",
+        "image": "/images/animeRoy.jpg"
     },
     {
         "id": 12,
-        "name": "",
-        "image": ""
+        "name": "Toshiro",
+        "image": "/images/animeToshiro.jpg"
     }
 
 ]
