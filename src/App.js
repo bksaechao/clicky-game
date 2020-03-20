@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
 import './App.css';
 import Card from "./components/Card";
-import Title from "./components/Title";
 import Wrapper from "./components/Wrapper";
-import characters from "./characters.json"
+import Jumbotron from "./components/Jumbotron";
+import Navbar from "./components/Navbar";
+import characters from "./characters.json";
 
 class App extends Component {
 
@@ -13,12 +13,13 @@ class App extends Component {
   };
 
   render() {
-    return (
+    return <>
+      <Navbar />
+      <Jumbotron />
       <Wrapper>
-        <Title>Character List</Title>
         {this.state.characters.map(character => (
           <Card
-            removeFriend={this.removeFriend}
+            // removeFriend={this.removeFriend}
             id={character.id}
             key={character.id}
             name={character.name}
@@ -26,7 +27,7 @@ class App extends Component {
           />
         ))}
       </Wrapper>
-    );
+    </>
   }
 }
 

@@ -1,0 +1,30 @@
+nav {
+    background: black;
+    box-shadow: 3px 3px 3px 3px lightgrey;
+    z-index: 999;
+    padding: 0 !important;
+    width: 100%;
+    
+}
+
+span {
+    background: #ffff;
+}
+
+ul {
+    width: 80%;
+}
+
+li {
+    color: #ffff;
+    list-style: none;
+    width: 50%;
+    display: inline-block;
+    padding-top: 15px;
+}
+
+#sharingan {
+    height: 50px;
+    width: 50px;
+}
+
