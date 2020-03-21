@@ -12,7 +12,7 @@ This is a simple memorization and click game. The object of the game is to click
 - Click on another character, but REMEMBER that you can only click on a character once.
 - Keep going to see if you can get all 12.
 
-<img src="public/images/animeClicky.gif" alt="animeGif" height="350" width="900">
+<img src="public/images/animeClicky.gif" alt="animeGif" height="350" width="750">
 
 ## Built with:
 - React
